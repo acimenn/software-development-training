@@ -1,13 +1,13 @@
-name: Generate last-commit and contributors badges
-
-permissions:
-  contents: write
+name: Generate badges in branch badges
 
 on:
   push:
     branches: ["main"]
     paths-ignore:
       - 'assets/badges/**'
+
+permissions:
+  contents: write
 
 jobs:
   build-badges:
@@ -24,7 +24,7 @@ jobs:
           # last commit in ISO format YYYY-MM-DD
           echo "date=$(git show -s --format=%cI HEAD | cut -d'T' -f1)" >> $GITHUB_OUTPUT
 
-      - name: Render SVG badges into assets/badges (last-commit + contributors)
+      - name: Generate SVG badges into assets/badges (last-commit + contributors)
         run: |
           mkdir -p assets/badges
           DATE=${{ steps.commit.outputs.date }}
@@ -75,15 +75,15 @@ jobs:
           </svg>
           SVG
 
-      - name: Commit and push badge(s) if changed
+      - name: Commit and push badge(s) if changed (badges branch)
         run: |
           if [ -n "$(git status --porcelain assets/badges)" ]; then
             DATE=${{ steps.commit.outputs.date }}
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add assets/badges
-            git commit -m "Documented: Update last-commit and contributors badges (${DATE})." || true
-            git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:main
+            git commit -m "Documented: Update badges (${DATE})."
+            git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:badges
           else
-            echo "No changes to assets/badges."
+            echo "No changes in branch badges. Nothing to commit."
           fi

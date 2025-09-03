@@ -7,8 +7,8 @@
 
 [![license](https://img.shields.io/badge/license-MIT-indianred.svg?style=flat-square&logo=spdx&logoColor=white)](./LICENSE.md)
 ![markdown](https://img.shields.io/badge/docs-Markdown-F7F4ED.svg?style=flat-square&logo=markdown&logoColor=white)
-[![last-commit](./assets/badges/last-commit.svg)](https://github.com/bigdirekt/software-development-training/commits/main)
-[![contributors](./assets/badges/contributors.svg)](https://github.com/bigdirekt/software-development-training/graphs/contributors)
+![last-commit](https://raw.githubusercontent.com/bigdirekt/software-development-training/badges/assets/badges/last-commit.svg)
+![contributors](https://raw.githubusercontent.com/bigdirekt/software-development-training/badges/assets/badges/contributors.svg)
 
 ---
 
@@ -83,7 +83,13 @@ Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwi
 
 ## Ressourcen
 
+- https://www.youtube.com/@ByteByteGo/videos
 - https://github.com/ByteByteGoHq/system-design-101
+- https://bytebytego.com/guides/git-vs-github/
+- https://bytebytego.com/guides/git-workflow/
+- https://bytebytego.com/guides/how-does-git-work/
+- https://bytebytego.com/guides/git-commands-cheat-sheet/
+- https://bytebytego.com/guides/git-merge-vs-git-rebate/
 
 ##
 
