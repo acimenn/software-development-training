@@ -81,4 +81,5 @@ jobs:
             git commit -m "Documented: Update badges (${DATE})."
             git pull
             git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:badges
+            git push -f "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" HEAD:badges
           fi
