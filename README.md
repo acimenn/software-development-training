@@ -1,7 +1,7 @@
 <a name="top"></a>
 
 <p align="center">
-    <img src="assets/images/logo.png" width="256" />
+    <img src="assets/images/logo.png" width="200" />
     <h2 align="center">Willkommen 👋 zu <code>software-development-training</code> (SDT)</h2>
 </p>
 
@@ -83,13 +83,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Teilbereich Software-Entwi
 
 ## Ressourcen
 
-- https://www.youtube.com/@ByteByteGo/videos
 - https://github.com/ByteByteGoHq/system-design-101
-- https://bytebytego.com/guides/git-vs-github/
-- https://bytebytego.com/guides/git-workflow/
-- https://bytebytego.com/guides/how-does-git-work/
-- https://bytebytego.com/guides/git-commands-cheat-sheet/
-- https://bytebytego.com/guides/git-merge-vs-git-rebate/
 
 ##
 
