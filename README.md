@@ -19,7 +19,7 @@
 
 ### 🥇 Was
 
-Dieses Repository dient der Azubi-Ausbildung für den Lehrplansteilbereich Software-Entwicklung.
+Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Software-Entwicklung.
 
 ### 🥈 Wozu
 
