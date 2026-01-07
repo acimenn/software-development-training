@@ -13,7 +13,7 @@
 
 ---
 
-[Einleitung](#einleitung) | [Agenda](#agenda) | [Tooling](#tooling) | [Playground](#playground) | [Ressourcen](#ressourcen)
+[Einleitung](#einleitung) | [Agenda](#agenda) | [Tooling](#tooling) | [Playground](#playground) | [Ressourcen](#ressourcen) | [License](#license)
 
 ## Einleitung
 
@@ -88,6 +88,12 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplansteilbereich Softw
 
 - https://github.com/ByteByteGoHq/system-design-101
 - ...
+
+<br>
+
+## License
+
+Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE](./LICENSE.md) für weitere Informationen.
 
 ##
 
