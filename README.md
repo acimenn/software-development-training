@@ -43,24 +43,24 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 
 | Rubrik                               | Inhalt                                                                     | Patryk | Sven  | Sebastian | Sascha | Neo   | Maurice | Datum/Zeit               |
 | ---                                  | ---                                                                        | :---:  | :---: | :---:     | :---:  | :---: | :---:   | :---:                    |
-| 👋&nbsp;Kick-off                     | Kennenlernen, Agenda vorstellen                                            | (👨‍🚒)  | 👨‍🏫    |           | 👨‍🏫     |       |         | 12.01.2026<br>~ **0,5h** |
-| 🧱&nbsp;[Grundlagen]                 |                                                                            |        | 👨‍🏫   |           | 👨‍🏫     |       | (👨‍🚒)   | 12.01.2026<br>~ **6h**   |
+| 👋&nbsp;[Kick-off]                   | Kennenlernen, Agenda vorstellen                                            | (👨‍🚒)  | 👨‍🏫    |           | 👨‍🏫     |       |         | 12.01.2026<br>~ **0,5h** |
+| 🧱&nbsp;[Grundlagen]                 |                                                                            |        | 👨‍🏫   |           | 👨‍🏫     |       | (👨‍🚒)    | 12.01.2026<br>~ **6h**   |
 |                                      | Gängige Programmiersprachen & relevante Anwendungsbereiche                 |        |       |           |        |       |         |                          |
 |                                      | Variablen/Datentypen, Operatoren, Bedingungen, Schleifen, I/O, Algorithmen |        |       |           |        |       |         |                          |
 |                                      | Backend vs. Frontend (und wie sie zusammenspielen)                         |        |       |           |        |       |         |                          |
 |                                      | Datenbanken                                                                |        |       |           |        |       |         |                          |
-| 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                                      |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)   | 15.01.2026<br>~ **4h**   |
-| 🔗&nbsp;[Softwareökosystem]          |                                                                            |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)   | 16.01.2026<br>~ **8h**   |
+| 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                                      |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>~ **4h**   |
+| 🔗&nbsp;[Softwareökosystem]          |                                                                            |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>~ **8h**   |
 |                                      | GitHub/GitLab als Plattformen                                              |        |       |           |        |       |         |                          |
 |                                      | Framework-Dokumentationen und Referenzen                                   |        |       |           |        |       |         |                          |
 |                                      | Lizenzen (Open Source != Free)                                             |        |       |           |        |       |         |                          |
 |                                      | Laufzeitumgebungen (Node.js, .NET CLR, JVM)                                |        |       |           |        |       |         |                          |
 |                                      | APIs/Schnittstellen                                                        |        |       |           |        |       |         |                          |
 |                                      | Einsatz von KI (als Unterstützung, kein vibe coding)                       |        |       |           |        |       |         |                          |
-| 🌐&nbsp;[Sprachen & Anwendungsfälle] |                                                                             |        |       |           |        |       |         | | ~ **13h**               |
-|                                      | Powershell- und Shell-Scripting (Automatisierung)                          |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>~ **7h**   |
-|                                      | C# ("C Sharp")                                                             |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)   | 23.01.2026<br>~ **6h**   |
-|                                      |                                                                            |        |       |           |        |        |         | --------<br>~ **32h**    |
+| 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                                            |        |       |           |        |       |         | | ~ **13h**              |
+|                                      | Powershell- und Shell-Scripting (Automatisierung)                          |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>~ **7h**  |
+|                                      | C# ("C Sharp")                                                             |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)    | 23.01.2026<br>~ **6h**  |
+|                                      |                                                                            |        |       |           |        |        |        | --------<br>~ **32h**    |
 
 ### Tagesagenda
 
@@ -111,6 +111,7 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
 
 [To the top](#top)
 
+[Kick-off]:                         ./docs/basics/kick-off.md
 [Grundlagen]:                       ./docs/basics/basics.md
 [Versionsverwaltung]:               ./docs/version-control/version-control.md
   [Git]:                            ./docs/version-control/git.md
