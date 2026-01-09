@@ -58,7 +58,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | APIs/Schnittstellen                                                        |        |       |           |        |       |         |                          |
 |                                      | Einsatz von KI (als Unterstützung, kein vibe coding)                       |        |       |           |        |       |         |                          |
 | 🌐&nbsp;[Sprachen & Anwendungsfälle]  |                                                                            |        |       |           |        |       |         | | ~ **13h**              |
-|                                      | Powershell- und Shell-Scripting (Automatisierung)                          |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>~ **7h**  |
+|                                      | PowerShell- und Shell-Scripting (Automatisierung)                          |        |       |           | (👨‍🚒)   | 👨‍🏫    |         | 22.01.2026<br>~ **7h**  |
 |                                      | C# ("C Sharp")                                                             |        |       | (👨‍🚒)      | 👨‍🏫     |       | (👨‍🚒)    | 23.01.2026<br>~ **6h**  |
 |                                      |                                                                            |        |       |           |        |        |        | --------<br>~ **32h**    |
 
@@ -83,7 +83,8 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 - [VSCode] (Visual Studio Code)
   - Extensions (wird bei Bedarf eingerichtet)
   - Settings (wird per Download zu Verfügung gestellt)
-  - Terminal bash und Powershell (wird während der Schulung eingerichtet)
+  - Terminal bash und PowerShell (wird während der Schulung eingerichtet)
+- PowerShell bzw. PowerShell ISE Zugriff (in der Regel vorinstalliert)
 
 <br>
 
