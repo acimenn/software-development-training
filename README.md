@@ -48,7 +48,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | Gängige Programmiersprachen & relevante Anwendungsbereiche                 |        |       |           |        |       |         |                          |
 |                                      | Variablen/Datentypen, Operatoren, Bedingungen, Schleifen, I/O, Algorithmen |        |       |           |        |       |         |                          |
 |                                      | Backend vs. Frontend (und wie sie zusammenspielen)                         |        |       |           |        |       |         |                          |
-|                                      | Datenbanken                                                                |        |       |           |        |       |         |                          |
+|                                      | (Datenbanken)                                                              |        |       |           |        |       |         |                          |
 | 🌿&nbsp;[Versionsverwaltung]         | [Git]                                                                      |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>~ **4h**   |
 | 🔗&nbsp;[Softwareökosystem]          |                                                                            |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>~ **8h**   |
 |                                      | GitHub/GitLab als Plattformen                                              |        |       |           |        |       |         |                          |
