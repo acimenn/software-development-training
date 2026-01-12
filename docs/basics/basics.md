@@ -102,7 +102,7 @@
 ![](./grundlagen-slides/slide-34.JPG)
 
 > [!TIP]
-> Verwendung von Datenbanken im Jahr 2025 ist [hier](https://survey.stackoverflow.co/2025/technology/#1-databases)<br>zu finden.
+> Verwendung von Datenbanken im Jahr 2025 ist [hier](https://survey.stackoverflow.co/2025/technology/#1-databases) zu finden.
 
 <br>
 
