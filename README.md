@@ -53,7 +53,7 @@ Dieses Repository dient der Azubi-Ausbildung für den Lehrplanteilbereich Softwa
 |                                      | [Frontend & Backend]                                   |        |       |           |        |       |         |                          |
 | 🌿&nbsp;[Versionskontrolle]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 15.01.2026<br>ca. **5h**   |
 |                                      | [Git Idee]                                             |        |       |           |        |       |         |                          |
-|                                      | [GitHub], [(Markdown)]                                   |        |       |           |        |       |         |                          |
+|                                      | [GitHub], [(Exkurs Markdown)]                          |        |       |           |        |       |         |                          |
 | 🔗&nbsp;[Softwareökosystem]          |                                                        |        | 👨‍🏫   | (👨‍🚒)      |        |       | (👨‍🚒)    | 16.01.2026<br>ca. **7h**   |
 |                                      | GitHub/GitLab als Plattformen                          |        |       |           |        |       |         |                          |
 |                                      | Framework-Dokumentationen und Referenzen               |        |       |           |        |       |         |                          |
@@ -133,7 +133,7 @@ Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE] für weitere Informationen
 [Versionskontrolle]:                ./docs/version-control/version-control.md
   [Git Idee]:                       ./docs/version-control/git-idea.md
   [GitHub]:                         ./docs/version-control/github.md
-  [(Markdown)]:                     ./docs/version-control/markdown.md
+  [(Exkurs Markdown)]:              ./docs/version-control/markdown.md
 [Softwareökosystem]:                ./docs/software-ecosystem/software-ecosystem.md
 [Sprachen & Anwendungsfälle]:       ./docs/languages-use-cases/languages-use-cases.md
 
